@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AmirAhmad</h1>
+<h1 align="center">Hi 👋, I'm AmirAhmad<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center">I am a novice programmer...</h3>
  <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="">
 - 🌱 I’m currently learning **Front-End advanced**
